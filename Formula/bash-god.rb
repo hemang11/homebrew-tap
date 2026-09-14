@@ -5,7 +5,6 @@
 class BashGod < Formula
   desc "Searchable local command memory for reviewed native operations"
   homepage "https://github.com/hemang11/BASH-GOD"
-  version "0.0.3"
   license "MIT"
 
   on_macos do
